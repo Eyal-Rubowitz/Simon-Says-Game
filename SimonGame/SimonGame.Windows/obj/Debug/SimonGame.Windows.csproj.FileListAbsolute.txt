@@ -1,0 +1,96 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\App.g.i.cs
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\App.g.cs
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\MainPage.g.cs
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\App.xaml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\App.xbf
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\App.xbf
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\MainPage.xbf
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\SimonGame.Windows.xr.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\SimonGame.Windows.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\SimonGame.Windows.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\resources.pri
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\AppxManifest.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\SimonGame.Windows.build.appxrecipe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\MainPage.xaml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\MainPage.xbf
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\SimonGame.Windows.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\SimonGame.Windows.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\priconfig.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\layout.resfiles
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\resources.resfiles
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\pri.resfiles
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\qualifiers.txt
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\USER\Documents\Visual Studio 2015\Projects\GamesProjects\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\App.g.i.cs
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\App.g.cs
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\MainPage.g.cs
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\App.xaml
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\MainPage.xaml
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\App.xbf
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\MainPage.xbf
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\SimonGame.Windows.exe
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\SimonGame.Windows.pdb
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\App.xbf
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\MainPage.xbf
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\SimonGame.Windows.xr.xml
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\SimonGame.Windows.exe
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\SimonGame.Windows.pdb
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\resources.pri
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\AppxManifest.xml
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\SimonGame.Windows.build.appxrecipe
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\priconfig.xml
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\layout.resfiles
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\resources.resfiles
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\pri.resfiles
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\qualifiers.txt
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\App.xbf
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\MainPage.xbf
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\SimonGame.Windows.xr.xml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\SimonGame.Windows.exe
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\SimonGame.Windows.pdb
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\resources.pri
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\AppxManifest.xml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\SimonGame.Windows.build.appxrecipe
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\App.g.i.cs
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\App.g.cs
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\MainPage.g.cs
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\App.xaml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\MainPage.xaml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\App.xbf
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\MainPage.xbf
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\SimonGame.Windows.exe
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\SimonGame.Windows.pdb
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\priconfig.xml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\layout.resfiles
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\resources.resfiles
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\pri.resfiles
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\qualifiers.txt
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\ProjectArchitectures.txt

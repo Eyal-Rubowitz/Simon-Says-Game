@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EYALRPC</Machine>
+    <WindowsUser>eyalr</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bbfcc3c9-2859-4e41-beb8-3ca23753f074</PackageIdentityName>
+    <PackageIdentityPublisher>CN=USER</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\SimonGame.Windows.exe">
+      <PackagePath>SimonGame.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\Assets\Images\SimonPanel_1.png">
+      <PackagePath>Assets\Images\SimonPanel_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\Assets\Images\SimonPanel_2.png">
+      <PackagePath>Assets\Images\SimonPanel_2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\Assets\Images\SimonPanel_3.png">
+      <PackagePath>Assets\Images\SimonPanel_3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\Assets\Images\SimonPanel_4.png">
+      <PackagePath>Assets\Images\SimonPanel_4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\Assets\Images\SimonPanel_0.png">
+      <PackagePath>Assets\Images\SimonPanel_0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\SFX\Untitled 1.wav">
+      <PackagePath>SFX\Untitled 1.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\SFX\Untitled 2.wav">
+      <PackagePath>SFX\Untitled 2.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\SFX\Untitled 3.wav">
+      <PackagePath>SFX\Untitled 3.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\SFX\Untitled 4.wav">
+      <PackagePath>SFX\Untitled 4.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\SimonGame.Windows.xr.xml">
+      <PackagePath>SimonGame.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\SimonGame\SimonGame\SimonGame.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
